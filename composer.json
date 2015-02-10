@@ -1,6 +1,15 @@
 {
     "name": "mjfavaro/fake",
-    "description": "",
+    "description": "Este é um package de teste e não deve ser usado por ninguém",
+    "keywords": ["Fake", "laravel", "package"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maurício J. Fávaro",
+            "email": "mjfavaro@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "authors": [
         {
             "name": "Maurício J. Fávaro",
@@ -19,5 +28,5 @@
             "Mjfavaro\\Fake\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
