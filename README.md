@@ -7,11 +7,11 @@ composer require --dev "mjfavaro/fake:dev-master"
 # app/config.php
 * Adicione o Service Provider
 
-  Mjfavaro\Fake\FakeServiceProvider
+  `"Mjfavaro\Fake\FakeServiceProvider"`
 
 * Adicione o Aliás
 
-  "Fake" => "Mjfavaro\Fake\Facade"
+  `"Fake" => "Mjfavaro\Fake\Facade"`
 
 
 ## USO
