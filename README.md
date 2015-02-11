@@ -1,6 +1,6 @@
 Instalação
 ==========
-require --dev "mjfavaro/fake: dev"
+composer require --dev "mjfavaro/fake:dev-master"
 
 
 
