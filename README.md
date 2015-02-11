@@ -15,5 +15,5 @@ composer require --dev "mjfavaro/fake:dev-master"
 
 
 ## USO
-**Temos no momento apenas um comando de teste, utilize-o em alguma view, ou no routes.php**
-Fake::test();
+Temos no momento apenas um comando de teste, utilize-o em alguma view, ou no routes.php
+'Fake::test();'
