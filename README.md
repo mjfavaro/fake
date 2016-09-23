@@ -16,7 +16,11 @@ composer require --dev "mjfavaro/fake:dev-master"
 
 ## USO
 Temos no momento apenas um comando de teste, utilize-o em alguma view, ou no routes.php
+
 \Mjfavaro\Fake\Fake::helloWorld();
+
 app()->make('fake')->helloWorld();
+
 app('fake')->helloWorld();
+
 Fake::helloWorld(); // Facade
