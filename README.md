@@ -15,7 +15,7 @@ composer require --dev "mjfavaro/fake:dev-master"
 
 
 ## USO
-Temos no momento apenas um comando de teste, utilize-o em alguma view, ou no routes.php
+Temos no momento apenas um comando de teste. Insira no seu arquivo de rotas:
 
 \Mjfavaro\Fake\Fake::helloWorld();
 
